@@ -1,5 +1,6 @@
 # Subdividing
-Read Me of Final project for CS 422: Geometric Modeling 
+Read Me of Final project for CS 422: Geometric Modeling
+*cannot publish code for project because of copyright 
 
 Final project report
 Cynthia Chen and Nellie Zhang:
